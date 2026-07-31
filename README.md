@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Alokh 👋
 
-<!--
-**Alokh-k/Alokh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | FastAPI Developer | AI & Backend Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable backend systems, authentication platforms, AI-powered applications, and cloud-native solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- ORAVCO ERP Services
+- Authentik-based Identity Management
+- AI Voice Agents
+- FastAPI & Docker Projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+- JavaScript
+- SQL
+
+**Backend**
+- FastAPI
+- Flask
+- Node.js
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Tools**
+- Docker
+- Git
+- GitHub
+- Linux
+- AWS
+
+---
+
+📫 Reach me: *(We'll add your LinkedIn, portfolio, badges, and GitHub stats later.)*
