@@ -77,3 +77,43 @@ Software Developer and AI Engineer with a strong interest in backend systems, ag
 - 🤖 Building AI Agents, LLM Applications, and FastAPI Backends
 - 🌱 Currently exploring Multi-Agent Systems, RAG, LangGraph, and Cloud Infrastructure
 - 🚀 Passionate about Software Architecture, DevOps, and AI-driven Products
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-D4AF37?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-D4AF37?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-D4AF37?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-D4AF37?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-D4AF37?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-D4AF37?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLMs-D4AF37?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-D4AF37?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-D4AF37?style=for-the-badge)
+
+### Backend & Full Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-D4AF37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-D4AF37?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-D4AF37?style=for-the-badge&logo=react&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-D4AF37?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-D4AF37?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-D4AF37?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-D4AF37?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Security & SIEM
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-D4AF37?style=for-the-badge)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-D4AF37?style=for-the-badge)
+![DNIF](https://img.shields.io/badge/DNIF-D4AF37?style=for-the-badge)
+![Seceon](https://img.shields.io/badge/Seceon-D4AF37?style=for-the-badge)
