@@ -27,7 +27,16 @@
 </picture>
 
 </div>
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokh-k&bg_color=0B0B0B&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" />
+</p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alokh-k&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
+</p>
 # Hi, I'm Alokh 👋
 
 ### Software Developer | FastAPI Developer | AI & Backend Enthusiast
@@ -240,4 +249,7 @@ Research exploring the implementation and optimization of the Discrete Fourier T
 
 <p align="center">
 Building intelligent software, scalable backend systems, and AI-powered solutions.
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alokh-k&label=Profile%20Views&color=D4AF37&style=for-the-badge" />
 </p>
