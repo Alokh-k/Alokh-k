@@ -117,3 +117,41 @@ Software Developer and AI Engineer with a strong interest in backend systems, ag
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-D4AF37?style=for-the-badge)
 ![DNIF](https://img.shields.io/badge/DNIF-D4AF37?style=for-the-badge)
 ![Seceon](https://img.shields.io/badge/Seceon-D4AF37?style=for-the-badge)
+
+
+## 🚀 Featured Projects
+
+### 🎤 Agentic AI Interviewing System
+An AI-powered interview platform using Large Language Models, Agentic AI, LangGraph, and FastAPI to conduct intelligent, adaptive technical interviews with automated evaluation and feedback.
+
+**Tech:** Python • FastAPI • LangGraph • LLMs • PostgreSQL
+
+---
+
+### 🚗 Daguerre Technology
+An in-car health monitoring system that continuously monitors driver health and detects emergencies to improve road safety.
+
+**Tech:** AI • IoT • Python • Machine Learning
+
+---
+
+### 🏠 Startup Remote
+A home service booking platform that connects customers with professional cleaning services through a modern web application.
+
+**Tech:** React • FastAPI • PostgreSQL • REST APIs
+
+---
+
+### 📚 Reading Aid for Individuals with Learning Disabilities Using TTS
+A Text-to-Speech application designed to assist students with dyslexia through intelligent reading support and accessibility features.
+
+**Tech:** Python • NLP • Text-to-Speech
+
+**Publication:** IJSREM
+
+---
+
+### 🧠 Evana – Agentic AI Mental Health Support
+An AI mental health assistant that provides conversational support using LLMs, memory, and agent-based workflows.
+
+**Tech:** Agentic AI • LangChain • FastAPI • LLMs
