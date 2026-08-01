@@ -213,3 +213,31 @@ Research exploring the implementation and optimization of the Discrete Fourier T
 - Worked with SIEM platforms including Microsoft Sentinel, IBM QRadar, DNIF, and Seceon.
 - Performed log analysis, alert triage, and incident response.
 - Assisted in threat detection and cybersecurity operations.
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alokh-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Alokh-k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-D4AF37?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Building intelligent software, scalable backend systems, and AI-powered solutions.
+</p>
