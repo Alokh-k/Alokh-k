@@ -155,3 +155,23 @@ A Text-to-Speech application designed to assist students with dyslexia through i
 An AI mental health assistant that provides conversational support using LLMs, memory, and agent-based workflows.
 
 **Tech:** Agentic AI • LangChain • FastAPI • LLMs
+
+
+## 📖 Research Publications
+
+### 📝 Agentic AI in Interview Automation
+Research focused on leveraging Agentic AI and Large Language Models to automate technical interviews through intelligent reasoning, adaptive questioning, and evaluation.
+
+---
+
+### 📝 Reading Aid for Individuals with Learning Disabilities Using Text-to-Speech
+**Published in IJSREM**
+
+Developed a reading assistance system using Text-to-Speech technology to improve accessibility for individuals with dyslexia and other learning disabilities.
+
+---
+
+### 📝 DFT in Quantum Computers
+**Published at ICESSI**
+
+Research exploring the implementation and optimization of the Discrete Fourier Transform within quantum computing systems and quantum algorithms.
