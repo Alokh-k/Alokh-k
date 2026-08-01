@@ -15,6 +15,19 @@
 <img width="49%" src="https://github-readme-stats-mb6tc5o5x-alokhs-projects.vercel.app/api/top-langs/?username=Alokh-k&layout=compact&langs_count=8&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0B0B0B&v=1" />
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Alokh-k/Alokh-k/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Alokh-k/Alokh-k/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Alokh-k/Alokh-k/output/github-snake.svg" />
+</picture>
+
+</div>
+
 # Hi, I'm Alokh 👋
 
 ### Software Developer | FastAPI Developer | AI & Backend Enthusiast
