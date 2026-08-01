@@ -49,34 +49,6 @@ I'm passionate about building scalable backend systems, authentication platforms
 - AI Voice Agents
 - FastAPI & Docker Projects
 
-## 🛠️ Tech Stack
-
-**Languages**
-- Python
-- Java
-- JavaScript
-- SQL
-
-**Backend**
-- FastAPI
-- Flask
-- Node.js
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Tools**
-- Docker
-- Git
-- GitHub
-- Linux
-- AWS
-
----
-
-📫 Reach me: *(We'll add your LinkedIn, portfolio, badges, and GitHub stats later.)*
-
 ## 👨‍💻 About Me
 
 Software Developer and AI Engineer with a strong interest in backend systems, agentic AI, cybersecurity, and cloud-native applications. I enjoy building scalable software, intelligent automation systems, and practical AI solutions.
