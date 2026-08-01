@@ -67,3 +67,13 @@ I'm passionate about building scalable backend systems, authentication platforms
 ---
 
 📫 Reach me: *(We'll add your LinkedIn, portfolio, badges, and GitHub stats later.)*
+
+## 👨‍💻 About Me
+
+Software Developer and AI Engineer with a strong interest in backend systems, agentic AI, cybersecurity, and cloud-native applications. I enjoy building scalable software, intelligent automation systems, and practical AI solutions.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Former SOC Intern
+- 🤖 Building AI Agents, LLM Applications, and FastAPI Backends
+- 🌱 Currently exploring Multi-Agent Systems, RAG, LangGraph, and Cloud Infrastructure
+- 🚀 Passionate about Software Architecture, DevOps, and AI-driven Products
