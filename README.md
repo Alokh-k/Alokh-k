@@ -34,9 +34,9 @@
 </p>
 ## 🏆 GitHub Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alokh-k&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
+</p> -->
 # Hi, I'm Alokh 👋
 
 ### Software Developer | FastAPI Developer | AI & Backend Enthusiast
