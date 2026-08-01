@@ -175,3 +175,41 @@ Developed a reading assistance system using Text-to-Speech technology to improve
 **Published at ICESSI**
 
 Research exploring the implementation and optimization of the Discrete Fourier Transform within quantum computing systems and quantum algorithms.
+
+## 💼 Professional Experience
+
+### Software Developer
+**ORAVCO Pvt. Ltd.**
+
+- Developing scalable backend services using FastAPI and Python.
+- Building AI-powered business automation solutions.
+- Designing authentication and identity management systems.
+- Working with Docker, PostgreSQL, REST APIs, and cloud-native architectures.
+- Contributing to ERP and enterprise software development.
+
+---
+
+### Security Operations Center (SOC) Intern
+
+- Monitored and investigated security incidents.
+- Worked with SIEM platforms including Microsoft Sentinel, IBM QRadar, DNIF, and Seceon.
+- Performed log analysis, alert triage, and incident response.
+- Assisted in threat detection and cybersecurity operations.## 💼 Professional Experience
+
+### Software Developer
+**ORAVCO Pvt. Ltd.**
+
+- Developing scalable backend services using FastAPI and Python.
+- Building AI-powered business automation solutions.
+- Designing authentication and identity management systems.
+- Working with Docker, PostgreSQL, REST APIs, and cloud-native architectures.
+- Contributing to ERP and enterprise software development.
+
+---
+
+### Security Operations Center (SOC) Intern
+
+- Monitored and investigated security incidents.
+- Worked with SIEM platforms including Microsoft Sentinel, IBM QRadar, DNIF, and Seceon.
+- Performed log analysis, alert triage, and incident response.
+- Assisted in threat detection and cybersecurity operations.
