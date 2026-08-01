@@ -10,10 +10,9 @@
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats-mb6tc5o5x-alokhs-projects.vercel.app/api?username=Alokh-k&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=0B0B0B" />
+<img width="49%" src="https://github-readme-stats-mb6tc5o5x-alokhs-projects.vercel.app/api?username=Alokh-k&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=0B0B0B&v=1" />
 
-<img width="49%" src="https://github-readme-stats-mb6tc5o5x-alokhs-projects.vercel.app/api/top-langs/?username=Alokh-k&layout=compact&langs_count=8&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0B0B0B" />
-
+<img width="49%" src="https://github-readme-stats-mb6tc5o5x-alokhs-projects.vercel.app/api/top-langs/?username=Alokh-k&layout=compact&langs_count=8&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0B0B0B&v=1" />
 </div>
 
 # Hi, I'm Alokh 👋
