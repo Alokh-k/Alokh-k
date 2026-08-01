@@ -218,7 +218,7 @@ Research exploring the implementation and optimization of the Discrete Fourier T
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:alokhajith007@gmail.com">
 <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
