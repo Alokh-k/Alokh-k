@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Alokh Kandoth GitHub Banner" width="100%">
+</p>
+
+<br>
 # Hi, I'm Alokh 👋
 
 ### Software Developer | FastAPI Developer | AI & Backend Enthusiast
