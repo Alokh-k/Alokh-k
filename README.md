@@ -45,7 +45,6 @@ I'm passionate about building scalable backend systems, authentication platforms
 
 ## 🚀 Currently Working On
 - ORAVCO ERP Services
-- Authentik-based Identity Management
 - AI Voice Agents
 - FastAPI & Docker Projects
 
