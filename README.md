@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Alokh-k&hide_border=true&background=0B0B0B&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=FFFFFF&sideLabels=C0C0C0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080&titleColor=D4AF37&card_width=1180" alt="GitHub Streak" />
+<!-- <img width="100%" src="https://streak-stats.demolab.com/?user=Alokh-k&hide_border=true&background=0B0B0B&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=FFFFFF&sideLabels=C0C0C0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080&titleColor=D4AF37&card_width=1180" alt="GitHub Streak" /> -->
 
 <br><br>
 
